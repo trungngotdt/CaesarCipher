@@ -1,0 +1,1 @@
+c:\users\admin\source\repos\CaesarCipher\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache

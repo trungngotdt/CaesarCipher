@@ -1,0 +1,15 @@
+c:\users\admin\source\repos\CaesarCipher\CaesarCipher\bin\Debug\netcoreapp2.0\CaesarCipher.deps.json
+c:\users\admin\source\repos\CaesarCipher\CaesarCipher\bin\Debug\netcoreapp2.0\CaesarCipher.runtimeconfig.json
+c:\users\admin\source\repos\CaesarCipher\CaesarCipher\bin\Debug\netcoreapp2.0\CaesarCipher.runtimeconfig.dev.json
+c:\users\admin\source\repos\CaesarCipher\CaesarCipher\bin\Debug\netcoreapp2.0\CaesarCipher.dll
+c:\users\admin\source\repos\CaesarCipher\CaesarCipher\bin\Debug\netcoreapp2.0\CaesarCipher.pdb
+c:\users\admin\source\repos\CaesarCipher\CaesarCipher\obj\Debug\netcoreapp2.0\CaesarCipher.csprojResolveAssemblyReference.cache
+c:\users\admin\source\repos\CaesarCipher\CaesarCipher\obj\Debug\netcoreapp2.0\CaesarCipher.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\CaesarCipher\CaesarCipher\obj\Debug\netcoreapp2.0\CaesarCipher.AssemblyInfoInputs.cache
+c:\users\admin\source\repos\CaesarCipher\CaesarCipher\obj\Debug\netcoreapp2.0\CaesarCipher.AssemblyInfo.cs
+c:\users\admin\source\repos\CaesarCipher\CaesarCipher\obj\Debug\netcoreapp2.0\CaesarCipher.dll
+c:\users\admin\source\repos\CaesarCipher\CaesarCipher\obj\Debug\netcoreapp2.0\CaesarCipher.pdb
+C:\Users\Admin\source\repos\CaesarCipher\CaesarCipher\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+C:\Users\Admin\source\repos\CaesarCipher\CaesarCipher\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.pdb
+C:\Users\Admin\source\repos\CaesarCipher\CaesarCipher\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+C:\Users\Admin\source\repos\CaesarCipher\CaesarCipher\bin\Debug\netcoreapp2.0\Mono.Cecil.dll

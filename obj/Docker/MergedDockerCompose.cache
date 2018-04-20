@@ -1,0 +1,7 @@
+services:
+  caesarcipher:
+    build:
+      context: c:\users\admin\source\repos\CaesarCipher
+      dockerfile: CaesarCipher/Dockerfile
+    image: caesarcipher
+version: '3.0'
