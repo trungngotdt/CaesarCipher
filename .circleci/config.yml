@@ -7,7 +7,6 @@ jobs:
       - checkout
       - run:
           name: dotnet
-          command: |
-          dotnet restore	
-          dotnet build
-          dotnet test TestCipher/TestCipher.csproj	
+          command: dotnet restore	
+          command : dotnet build
+          command : dotnet test TestCipher/TestCipher.csproj	
