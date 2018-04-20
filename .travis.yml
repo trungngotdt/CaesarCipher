@@ -2,8 +2,6 @@ language: csharp
 dotnet : 2.0.0
 mono : none
 
-  - nuget restore CaesarCipher.sln
-  - nuget install NUnit.Runners -Version 2.6.4 -OutputDirectory testrunner
 script:
   - dotnet restore	
   - dotnet build
