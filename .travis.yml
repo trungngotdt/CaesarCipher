@@ -5,6 +5,6 @@ install:
   - nuget restore CaesarCipher.sln
   - nuget install NUnit.Runners -Version 2.6.4 -OutputDirectory testrunner
 script:
-	- dotnet restore	
-	- dotnet build
-	- dotnet test TestCipher/TestCipher.csproj	
+  - dotnet restore	
+  - dotnet build
+  - dotnet test TestCipher/TestCipher.csproj	
