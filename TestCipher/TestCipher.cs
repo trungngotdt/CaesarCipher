@@ -1,6 +1,5 @@
 using FizzWare.NBuilder;
 using NUnit.Framework;
-using System.Collections;
 using System.Linq;
 using CaesarCipher;
 
@@ -30,6 +29,20 @@ namespace TestCipher
                 cipher.Ciphertext = cipher.Encrypt();
                 var result = cipher.Decrypt();
                 Assert.IsTrue(text.Equals( result));
+            }
+        }
+
+        [Test]
+        public void TestUTF8()
+        {
+            for (int i = 0; i < 10; i++)
+            {
+                var text =((char) (i+244)).ToString();
+                cipher.Plaintext = text;
+                cipher.K = i;
+                cipher.Ciphertext = cipher.Encrypt();
+                var result = cipher.Decrypt();
+                Assert.IsTrue(text.Equals(result));
             }
         }
     }
